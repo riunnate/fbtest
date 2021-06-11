@@ -1443,6 +1443,11 @@
   resolved "https://registry.yarnpkg.com/@react-native-firebase/auth/-/auth-8.0.2.tgz#badaba7289c7eaa4686ad79d46980e39c61ad5af"
   integrity sha512-iYWXlX4M+lMOdtkN9prUpjRUb2kMos6GEqeA9jgXgA96BKPkuiokoHykEuBQPsWMu6psIB+FHivecqFYzhWWjA==
 
+"@react-native-firebase/database@7.2.0":
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/database/-/database-7.2.0.tgz#b3aa3465151a41dec7bc644f4a17985611584b83"
+  integrity sha512-GGE51GD26Kp52JEn717vlM2wIFRtF9vHo0jwn93/bazmh7CAldiyIK7ducDZc/jiwVgYVrWguOQFpebICTeIFA==
+
 "@react-navigation/core@^3.7.6":
   version "3.7.6"
   resolved "https://registry.yarnpkg.com/@react-navigation/core/-/core-3.7.6.tgz#e0244fcdc22937825b252197f70308bbe5709c58"
@@ -3581,9 +3586,9 @@ getpass@^0.1.1:
     assert-plus "^1.0.0"
 
 glob-parent@^5.0.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.1.tgz#b6c1ef417c4e5663ea498f1c45afac6916bbc229"
-  integrity sha512-FnI+VGOpnlGHWZxthPGR+QhR78fuiK0sNLkHQv+bL9fQi57lNNdquIbna/WrfROrolq8GK5Ek6BiMwqL/voRYQ==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
